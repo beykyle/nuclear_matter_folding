@@ -1,0 +1,17 @@
+1,,    IWUNIT
+'SkI2'
+71,0.3,              NGRID,RSTEP
+-1,1E-8,1E-9,278,20000,3,-1, IWR,DABR/E,ITPR/MAX,IFPL
+0.4,100.,0.2,-1,,,,,               X0DAMP,E0DAMP,ADDNEW,WALL
+1,0,0,-1,1,3,0,0,0,10,,, if:ex,tm,enrg,rso,zpe,dfms,rhoc,enav,mfold,optsk
+1,,,                       ifform
+0.64,0,0,0,0,   apro0,apro11,apro12,bpro11,bpro12
+0.64,0,0,0,0,   aneu0,aneu11,aneu12,bneu11,bneu12
+ -1915.43,438.449,305.446,10548.9,120.602,      t0,t1,t2,t3,t4
+-0.2108,-1.7376,-1.5336,-0.178,60.301,       x0,x1,x2,x3,b4p
+   0.00000   0.16   0.00000,,,      riftm,rho0pr,powerp
+     0.000,  0.000000,  0.000000,           tyuk,xyuk,ayuk
+  0.25,1.0,7,1233.74,995.961,0,0.0,-5,0d0,,,   POWER,ACOUL,IPAIR,PAIRFP/N,ILNRESP,...
+20,28,,,3,,,,,,  nprot,nneut,nmaxp,nmaxn,iparsh
+ 0         IFGSC
+-1,,    IWUNIT

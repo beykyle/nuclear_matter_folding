@@ -1,0 +1,17 @@
+1,,    IWUNIT
+'SV-sym28'
+71,0.3,              NGRID,RSTEP
+-1,1E-8,1E-9,278,20000,3,-1, IWR,DABR/E,ITPR/MAX,IFPL
+0.4,100.,0.2,-1,,,,,               X0DAMP,E0DAMP,ADDNEW,WALL
+1,0,0,-1,1,3,0,0,0,10,,, if:ex,tm,enrg,rso,zpe,dfms,rhoc,enav,mfold,optsk
+1,,,                       ifform
+0.64,0,0,0,0,   apro0,apro11,apro12,bpro11,bpro12
+0.64,0,0,0,0,   aneu0,aneu11,aneu12,bneu11,bneu12
+ -1877.430831,307.2551825,140.8677082,12511.94025,115.55634,      t0,t1,t2,t3,t4
+0.5178209729,-0.4312911638,-2.474137022,0.5687935957,42.14865,       x0,x1,x2,x3,b4p
+   0.00000   0.223946   0.00000,,,      riftm,rho0pr,powerp
+     0.000,  0.000000,  0.000000,           tyuk,xyuk,ayuk
+  0.3,1.0,7,590.03495,539.89188,0,0.0,-5,0d0,,,   POWER,ACOUL,IPAIR,PAIRFP/N,ILNRESP,...
+82,126,,,3,,,,,,  nprot,nneut,nmaxp,nmaxn,iparsh
+ 0         IFGSC
+-1,,    IWUNIT

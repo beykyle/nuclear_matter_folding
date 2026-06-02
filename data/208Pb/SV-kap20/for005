@@ -1,0 +1,17 @@
+1,,    IWUNIT
+'SV-kap20'
+71,0.3,              NGRID,RSTEP
+-1,1E-8,1E-9,278,20000,3,-1, IWR,DABR/E,ITPR/MAX,IFPL
+0.4,100.,0.2,-1,,,,,               X0DAMP,E0DAMP,ADDNEW,WALL
+1,0,0,-1,1,3,0,0,0,10,,, if:ex,tm,enrg,rso,zpe,dfms,rhoc,enav,mfold,optsk
+1,,,                       ifform
+0.64,0,0,0,0,   apro0,apro11,apro12,bpro11,bpro12
+0.64,0,0,0,0,   aneu0,aneu11,aneu12,bneu11,bneu12
+ -1878.882638,313.2450493,44.04239998,12519.92868,110.510656,      t0,t1,t2,t3,t4
+0.3313975544,-0.8796716955,-5.267350987,0.3902358047,48.259444,       x0,x1,x2,x3,b4p
+   0.00000   0.20136   0.00000,,,      riftm,rho0pr,powerp
+     0.000,  0.000000,  0.000000,           tyuk,xyuk,ayuk
+  0.3,1.0,7,664.61242,616.99586,0,0.0,-5,0d0,,,   POWER,ACOUL,IPAIR,PAIRFP/N,ILNRESP,...
+82,126,,,3,,,,,,  nprot,nneut,nmaxp,nmaxn,iparsh
+ 0         IFGSC
+-1,,    IWUNIT

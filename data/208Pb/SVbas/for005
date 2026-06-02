@@ -1,0 +1,113 @@
+1,,    IWUNIT
+'SV-bas BCS'
+0,0.3,              NGRID,RSTEP
+-1,1E-8,1E-9,100,3780,3,-1, IWR,DABR/E,ITPR/MAX,IFPL
+0.2,100.,0.2,-1,,,,,               X0DAMP,E0DAMP,ADDNEW,WALL
+1,0,0,-1,1,3,0,0,0,10,,, if:ex,tm,enrg,rso,zpe,dfms,rhoc,enav,mfold,optsk
+1,,,                       ifform
+0.64,0,0,0,0,   apro0,apro11,apro12,bpro11,bpro12
+0.64,0,0,0,0,   aneu0,aneu11,aneu12,bneu11,bneu12
+ -1879.639,   313.749,   112.677, 12527.376,   124.634,      t0,t1,t2,t3,t4
+0.25854594    ,-.38168900    ,-2.8236379    ,0.12322898    ,   34.11167,       x0,x1,x2,x3,b4p
+   0.00000   0.20113   0.00000,,,      riftm,rho0pr,powerp
+     0.000,  0.000000,  0.000000,           tyuk,xyuk,ayuk
+  0.300000,1.0,7,674.617981,606.901978,0,0.0,-5,0D0,,,   POWER,ACOUL,IPAIR,PAIRFP/N,ILNRESP,...
+82,126,,,2,,,,,,  nprot,nneut,nmaxp,nmaxn,iparsh
+ 0         IFGSC
+-1,,    IWUNIT
+'SV-bas BCS'
+61,0.3,              NGRID,RSTEP
+-1,1E-8,1E-9,100,3780,3,-1, IWR,DABR/E,ITPR/MAX,IFPL
+0.2,100.,0.2,-1,,,,,               X0DAMP,E0DAMP,ADDNEW,WALL
+1,0,0,-1,1,3,0,0,0,10,,, if:ex,tm,enrg,rso,zpe,dfms,rhoc,enav,mfold,optsk
+1,,,                       ifform
+0.64,0,0,0,0,   apro0,apro11,apro12,bpro11,bpro12
+0.64,0,0,0,0,   aneu0,aneu11,aneu12,bneu11,bneu12
+ -1879.639,   313.749,   112.677, 12527.376,   124.634,      t0,t1,t2,t3,t4
+0.25854594    ,-.38168900    ,-2.8236379    ,0.12322898    ,   34.11167,       x0,x1,x2,x3,b4p
+   0.00000   0.20113   0.00000,,,      riftm,rho0pr,powerp
+     0.000,  0.000000,  0.000000,           tyuk,xyuk,ayuk
+  0.300000,1.0,7,67.4618,537,0,0.0,-10,0D0,,,   POWER,ACOUL,IPAIR,PAIRFP/N,ILNRESP,...
+82,126,,,6,,,,,,  nprot,nneut,nmaxp,nmaxn,iparsh
+ 0         IFGSC
+-1,,    IWUNIT
+'SV-bas BCS'
+71,0.3,              NGRID,RSTEP
+-1,1E-8,1E-9,100,3780,3,-1, IWR,DABR/E,ITPR/MAX,IFPL
+0.2,100.,0.2,-1,,,,,               X0DAMP,E0DAMP,ADDNEW,WALL
+1,0,0,-1,1,3,0,0,0,10,,, if:ex,tm,enrg,rso,zpe,dfms,rhoc,enav,mfold,optsk
+1,,,                       ifform
+0.64,0,0,0,0,   apro0,apro11,apro12,bpro11,bpro12
+0.64,0,0,0,0,   aneu0,aneu11,aneu12,bneu11,bneu12
+ -1879.639,   313.749,   112.677, 12527.376,   124.634,      t0,t1,t2,t3,t4
+0.25854594    ,-.38168900    ,-2.8236379    ,0.12322898    ,   34.11167,       x0,x1,x2,x3,b4p
+   0.00000   0.20113   0.00000,,,      riftm,rho0pr,powerp
+     0.000,  0.000000,  0.000000,           tyuk,xyuk,ayuk
+  0.300000,1.0,7,674.618,606.902,0,0.0,-5,0.5D0,,,   POWER,ACOUL,IPAIR,PAIRFP/N,ILNRESP,...
+82,126,,,3,,,,,,  nprot,nneut,nmaxp,nmaxn,iparsh
+ 0         IFGSC
+1,,    IWUNIT
+'SV-bas BCS'
+71,0.3,              NGRID,RSTEP
+-1,1E-8,1E-9,100,3780,3,-1, IWR,DABR/E,ITPR/MAX,IFPL
+0.2,100.,0.2,-1,,,,,               X0DAMP,E0DAMP,ADDNEW,WALL
+1,0,0,-1,1,3,0,0,0,10,,, if:ex,tm,enrg,rso,zpe,dfms,rhoc,enav,mfold,optsk
+1,,,                       ifform
+0.64,0,0,0,0,   apro0,apro11,apro12,bpro11,bpro12
+0.64,0,0,0,0,   aneu0,aneu11,aneu12,bneu11,bneu12
+ -1879.639,   313.749,   112.677, 12527.376,   124.634,      t0,t1,t2,t3,t4
+0.25854594    ,-.38168900    ,-2.8236379    ,0.12322898    ,   34.11167,       x0,x1,x2,x3,b4p
+   0.00000   0.20113   0.00000,,,      riftm,rho0pr,powerp
+     0.000,  0.000000,  0.000000,           tyuk,xyuk,ayuk
+  0.300000,1.0,7,674.618,606.902,0,0.0,-5,1D0,,,   POWER,ACOUL,IPAIR,PAIRFP/N,ILNRESP,...
+82,126,,,3,,,,,,  nprot,nneut,nmaxp,nmaxn,iparsh
+ 0         IFGSC
+-1,,    IWUNIT
+'SV-bas HFB'
+71,0.3,              NGRID,RSTEP
+-1,1E-8,1E-9,100,3780,3,-1, IWR,DABR/E,ITPR/MAX,IFPL
+0.2,100.,0.2,-1,,,,,               X0DAMP,E0DAMP,ADDNEW,WALL
+1,0,0,1,-1,3,0,0,0,10,,, if:ex,tm,enrg,rso,zpe,dfms,rhoc,enav,mfold,optsk
+1,,,                       ifform
+0.64,0,0,0,0,   apro0,apro11,apro12,bpro11,bpro12
+0.64,0,0,0,0,   aneu0,aneu11,aneu12,bneu11,bneu12
+ -1879.639,   313.749,   112.677, 12527.376,   124.634,      t0,t1,t2,t3,t4
+0.25854594    ,-.38168900    ,-2.8236379    ,0.12322898    ,   34.11167,       x0,x1,x2,x3,b4p
+   0.00000   0.20113   0.00000,,,      riftm,rho0pr,powerp
+     0.000,  0.000000,  0.000000,           tyuk,xyuk,ayuk
+  0.300000,1.0,8,2050.618,606.902,0,0.0,-15,1D0,,,   POWER,ACOUL,IPAIR,PAIRFP/N,ILNRESP,...
+82,126,,,3,,,,,,  nprot,nneut,nmaxp,nmaxn,iparsh
+ 0         IFGSC
+1,,    IWUNIT
+'SV-bas BCS'
+71,0.3,              NGRID,RSTEP
+-1,1E-8,1E-9,100,3780,3,-1, IWR,DABR/E,ITPR/MAX,IFPL
+0.2,100.,0.2,-1,,,,,               X0DAMP,E0DAMP,ADDNEW,WALL
+1,0,0,1,-1,3,0,0,0,10,,, if:ex,tm,enrg,rso,zpe,dfms,rhoc,enav,mfold,optsk
+1,,,                       ifform
+0.64,0,0,0,0,   apro0,apro11,apro12,bpro11,bpro12
+0.64,0,0,0,0,   aneu0,aneu11,aneu12,bneu11,bneu12
+ -1879.639,   313.749,   112.677, 12527.376,   124.634,      t0,t1,t2,t3,t4
+0.25854594    ,-.38168900    ,-2.8236379    ,0.12322898    ,   34.11167,       x0,x1,x2,x3,b4p
+   0.00000   0.20113   0.00000,,,      riftm,rho0pr,powerp
+     0.000,  0.000000,  0.000000,           tyuk,xyuk,ayuk
+  0.300000,1.0,7,674.618,606.902,0,0.0,-15,0D0,,,   POWER,ACOUL,IPAIR,PAIRFP/N,ILNRESP,...
+82,126,,,3,,,,,,  nprot,nneut,nmaxp,nmaxn,iparsh
+ 0         IFGSC
+1,,    IWUNIT
+'SV-bas BCS'
+71,0.3,              NGRID,RSTEP
+-1,1E-8,1E-9,100,3780,3,-1, IWR,DABR/E,ITPR/MAX,IFPL
+0.2,100.,0.2,-1,,,,,               X0DAMP,E0DAMP,ADDNEW,WALL
+1,0,0,1,-1,3,0,0,0,10,,, if:ex,tm,enrg,rso,zpe,dfms,rhoc,enav,mfold,optsk
+1,,,                       ifform
+0.64,0,0,0,0,   apro0,apro11,apro12,bpro11,bpro12
+0.64,0,0,0,0,   aneu0,aneu11,aneu12,bneu11,bneu12
+ -1879.639,   313.749,   112.677, 12527.376,   124.634,      t0,t1,t2,t3,t4
+0.25854594    ,-.38168900    ,-2.8236379    ,0.12322898    ,   34.11167,       x0,x1,x2,x3,b4p
+   0.00000   0.20113   0.00000,,,      riftm,rho0pr,powerp
+     0.000,  0.000000,  0.000000,           tyuk,xyuk,ayuk
+  0.300000,1.0,7,2060.618,606.902,0,0.0,-15,1D0,,,   POWER,ACOUL,IPAIR,PAIRFP/N,ILNRESP,...
+82,126,,,3,,,,,,  nprot,nneut,nmaxp,nmaxn,iparsh
+ 0         IFGSC
+-1,,    IWUNIT
